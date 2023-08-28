@@ -2,8 +2,8 @@ import * as PIXI from "./pixi.mjs";
 
 const app = new PIXI.Application({
     view: document.getElementById("pixi-canvas"),
-    width: 800,
-    height: 600
+    width: 1280,
+    height: 720
 });
 
 //масив з розмірами астероїдів
